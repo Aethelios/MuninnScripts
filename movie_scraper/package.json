@@ -1,0 +1,19 @@
+{
+  "name": "movie_scraper",
+  "version": "1.0.0",
+  "main": "tmdb_scraper.js",
+  "scripts": {
+    "start": "node tmdb_scraper.js"
+  },
+  "keywords": [
+    "web-scraping",
+    "movies",
+    "themoviedb"
+  ],
+  "author": "Aethelios",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "description": "A movie scraper for TheMovieDB.org"
+}
